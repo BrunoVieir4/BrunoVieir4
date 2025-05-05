@@ -3,7 +3,7 @@
 
 **`Estudante de programação`**
 
-Me chamo Bruno Vieira, tenho 21 anos e sou natural do Blumenau. Concluí o ensino médio no Cedup Hermann Hering, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonada por tecnologia, no momento estou apenas estudando, buscando minha primeira oportunidade na área da programação.
+Me chamo Bruno Vieira, tenho 21 anos e sou natural do Blumenau. Concluí o ensino médio no Cedup Hermann Hering, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonado por tecnologia, no momento estou apenas estudando, buscando minha primeira oportunidade na área da programação.
 
 ---
 
